@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Full stack development and Data Science technology**
 
-- 📫 How to reach me **deagnish11@gmail.com**
-
 - ⚡ Fun fact **I am funny🙂🙂**
 
 <h3 align="left">Connect with me:</h3>
