@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnishde&label=Profile%20views&color=0e75b6&style=flat" alt="agnishde" /> </p>
 
 - 🌱 I’m currently learning **Full stack development and Data Science technology**
-
+- 📫 How to reach me **deagnish11@gmail.com**
 - ⚡ Fun fact **I am funny🙂🙂**
 
 <h3 align="left">Connect with me:</h3>
