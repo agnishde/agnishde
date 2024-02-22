@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agnish De</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fmstudies.org%2F%3Fo%3Dhappy-art-gif-by-scaler-find-share-on-giphy-pp-MpdKwPSD&psig=AOvVaw2F3jZ_P3Xc8P-3zUuNVxnF&ust=1708705765815000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCf-5Kvv4QDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnishde&label=Profile%20views&color=0e75b6&style=flat" alt="agnishde" /> </p>
