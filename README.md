@@ -6,9 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnishde&label=Profile%20views&color=0e75b6&style=flat" alt="agnishde" /> </p>
 
-- 🌱 I’m currently learning **Full stack development and Data Science technology**
-- 📫 How to reach me **deagnish11@gmail.com**
-- ⚡ Fun fact **I am funny🙂🙂**
+- 🌱 Currently learning Full stack development and Data Science technology
+- 🎓 Aspiring Software Developer and Data Science Enthusiast
+- 📧 Reach me at deagnish11@gmail.com
+- ⚡ Fun fact: I have a great sense of humor! 😄
+- 🔍 Actively seeking job opportunities in software development and data science
+- 🤝 Passionate about connecting with fellow AI/ML enthusiasts and professionals
+- 📚 Always exploring new technologies and eager to expand my skillset
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
