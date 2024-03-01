@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnishde&label=Profile%20views&color=0e75b6&style=flat" alt="agnishde" /> </p>
 
 - 🌱 Currently learning Full stack development and Data Science technology
