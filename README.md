@@ -8,7 +8,6 @@
 - 🌱 Currently learning Full stack development and Data Science technology
 - 🎓 Aspiring Software Developer and Data Science Enthusiast
 - 📧 Reach me at deagnish11@gmail.com
-- ⚡ Fun fact: I have a great sense of humor! 😄
 - 🔍 Actively seeking job opportunities in software development and data science
 - 🤝 Passionate about connecting with fellow AI/ML enthusiasts and professionals
 - 📚 Always exploring new technologies and eager to expand my skillset
